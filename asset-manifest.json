@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git-learn/static/css/main.59fd12e9.chunk.css",
+    "main.js": "/git-learn/static/js/main.2c76da08.chunk.js",
+    "main.js.map": "/git-learn/static/js/main.2c76da08.chunk.js.map",
+    "runtime-main.js": "/git-learn/static/js/runtime-main.df13dde0.js",
+    "runtime-main.js.map": "/git-learn/static/js/runtime-main.df13dde0.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/git-learn/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.a782f398.chunk.js": "/git-learn/static/js/2.a782f398.chunk.js",
+    "static/js/2.a782f398.chunk.js.map": "/git-learn/static/js/2.a782f398.chunk.js.map",
+    "static/js/3.80e41fc3.chunk.js": "/git-learn/static/js/3.80e41fc3.chunk.js",
+    "static/js/3.80e41fc3.chunk.js.map": "/git-learn/static/js/3.80e41fc3.chunk.js.map",
+    "index.html": "/git-learn/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/git-learn/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.59fd12e9.chunk.css.map": "/git-learn/static/css/main.59fd12e9.chunk.css.map",
+    "static/js/2.a782f398.chunk.js.LICENSE.txt": "/git-learn/static/js/2.a782f398.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df13dde0.js",
+    "static/css/2.d5e620ed.chunk.css",
+    "static/js/2.a782f398.chunk.js",
+    "static/css/main.59fd12e9.chunk.css",
+    "static/js/main.2c76da08.chunk.js"
+  ]
+}
